@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: TFC.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+A level-1 auxiliary file: PG.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Chapitre1.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Chapitre2.aux
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+The style file: acm.bst
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+Database file #1: bibliographie.bib
+Warning--to sort, need author, editor, or key in approche
+Warning--empty author and editor in approche
+Warning--empty publisher in sumuna
+Warning--empty year in sumuna
+You've used 8 entries,
+            2253 wiz_defined-function locations,
+            568 strings with 4708 characters,
+and the built_in function-call counts, 1722 in all, are:
+= -- 151
+> -- 50
+< -- 0
++ -- 22
+- -- 14
+* -- 91
+:= -- 301
+add.period$ -- 22
+call.type$ -- 8
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 98
+empty$ -- 174
+format.name$ -- 14
+if$ -- 358
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 11
+newline$ -- 41
+num.names$ -- 14
+pop$ -- 56
+preamble$ -- 1
+purify$ -- 23
+quote$ -- 0
+skip$ -- 47
+stack$ -- 0
+substring$ -- 40
+swap$ -- 14
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 4
+while$ -- 14
+width$ -- 9
+write$ -- 81
+(There were 4 warnings)
