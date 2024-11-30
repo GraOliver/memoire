@@ -1,0 +1,41 @@
+\documentclass[oneside]{book}
+\usepackage[UTF8]{inputenc}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage[francais]{babel}
+\usepackage[a4paper,margin=1in]{geometry}
+
+%% LES FONCTIONS DU CHAPITRE ET STYLE DE PAGE
+\usepackage[Glenn]{fncychap}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks =true,
+	linkcolor=black,
+	urlcolor=black,
+	runbordercolor=black,
+	runcolor=black,
+	citecolor=black,
+}
+%% 
+\usepackage{xcolor,tcolorbox,tikz}
+\begin{document}
+	%%%/////////////////////// Page de Garde ///////////////////////////////////////
+	\include{PG}
+	%% Page des garde
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	%%//////////////////////////////////////// CHAPITRE 1 /////
+	\include {"Chapitre1"}
+	%%!!!!!!!!!!!!!!!!!!!!! chapitre 2
+	\include{"Chapitre2"}
+	%%///////// Création de la bibliographie
+	\nocite{*}
+	%%\bibliographystyle{authoryear}
+	\bibliographystyle{acm}
+	\bibliography{bibliographie}
+	
+	\vspace{2cm}
+	%%% Annexe
+	
+\end{document}

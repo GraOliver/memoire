@@ -1,4 +1,4 @@
-\documentclass[12]{book}
+\documentclass[oneside]{book}
 \usepackage[UTF8]{inputenc}
 \usepackage{graphicx}
 \usepackage[T1]{fontenc}
@@ -10,25 +10,16 @@
 \newcommand{\couleurT}{\color{titre}}
 
 %%%% Fancy chapeter
-\usepackage{fancyvrb, fancyhdr}
 \usepackage[Glenn]{fncychap}
-
-\pagestyle{fancy}
-\usepackage[sonny]{fncychap}
-%%\pagestyle{headings}
-\usepackage{marginnote} % Package pour écrire dans la marge
-\usepackage{geometry} % Ajuste les marges de la page
-%%\usepackage{caption}
 \usepackage{Lettrine}
 \usepackage{amsmath,amsfonts,amsthm,geometry,lipsum}
 \usepackage{hyperref}
 
 %%%% couleur
-
-\usepackage{xcolor}
-\usepackage{tcolorbox,tikz}
-\usepackage{marginnote}
-
+\usepackage{xcolor,tcolorbox,tikz}
+\usepackage{graphicx}    % Pour gérer les images
+%% Bibiographie
+%\usepackage[style=authoryear]{biblatex}
 %%%%% Proprieté des liens dans le texte
 \hypersetup{
     colorlinks =true,
@@ -48,13 +39,14 @@
 \color{black}
 \tableofcontents
 \listoffigures
+\listoftables
 %%//////////////////////////////////////// CHAPITRE 1 /////
 \include {"Chapitre1"}
 %%!!!!!!!!!!!!!!!!!!!!! chapitre 2
 \include{"Chapitre2"}
 %%///////// Création de la bibliographie
 \nocite{*}
-\bibliographystyle{acm}
+\bibliographystyle{apalike}
 \bibliography{bibliographie}
 
 \vspace{2cm}

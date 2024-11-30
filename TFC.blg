@@ -12,48 +12,52 @@ The style file: acm.bst
 Reallocating 'name_of_file' (item size: 1) to 14 items.
 Database file #1: bibliographie.bib
 Warning--to sort, need author, editor, or key in approche
+Warning--to sort, need author, editor, or key in technologie1
+Warning--empty author and editor in technologie1
+Warning--empty year in technologie1
 Warning--empty author and editor in approche
+Warning--empty year in ayad2
 Warning--empty publisher in sumuna
 Warning--empty year in sumuna
-You've used 8 entries,
+You've used 16 entries,
             2253 wiz_defined-function locations,
-            568 strings with 4708 characters,
-and the built_in function-call counts, 1722 in all, are:
-= -- 151
-> -- 50
+            602 strings with 5619 characters,
+and the built_in function-call counts, 3359 in all, are:
+= -- 308
+> -- 105
 < -- 0
-+ -- 22
-- -- 14
-* -- 91
-:= -- 301
-add.period$ -- 22
-call.type$ -- 8
-change.case$ -- 24
++ -- 46
+- -- 30
+* -- 190
+:= -- 597
+add.period$ -- 45
+call.type$ -- 16
+change.case$ -- 51
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 98
-empty$ -- 174
-format.name$ -- 14
-if$ -- 358
+cite$ -- 24
+duplicate$ -- 178
+empty$ -- 315
+format.name$ -- 30
+if$ -- 685
 int.to.chr$ -- 0
-int.to.str$ -- 8
-missing$ -- 11
-newline$ -- 41
-num.names$ -- 14
-pop$ -- 56
+int.to.str$ -- 16
+missing$ -- 15
+newline$ -- 80
+num.names$ -- 28
+pop$ -- 89
 preamble$ -- 1
-purify$ -- 23
+purify$ -- 47
 quote$ -- 0
-skip$ -- 47
+skip$ -- 92
 stack$ -- 0
-substring$ -- 40
-swap$ -- 14
+substring$ -- 80
+swap$ -- 29
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 20
-warning$ -- 4
-while$ -- 14
-width$ -- 9
-write$ -- 81
-(There were 4 warnings)
+type$ -- 50
+warning$ -- 8
+while$ -- 28
+width$ -- 18
+write$ -- 158
+(There were 8 warnings)

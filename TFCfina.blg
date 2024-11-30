@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: TFCfina.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+A level-1 auxiliary file: PG.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Chapitre1.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Chapitre2.aux
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+The style file: acm.bst
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+Database file #1: bibliographie.bib
+Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
+while executing---line 1092 of file acm.bst
+Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
+while executing---line 1092 of file acm.bst
+Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
+while executing---line 1092 of file acm.bst
+Warning--to sort, need author, editor, or key in approche
+Warning--to sort, need author, editor, or key in technologie1
+Warning--empty author and editor in technologie1
+Warning--empty year in technologie1
+Warning--empty author and editor in approche
+Warning--empty journal in epa
+Warning--empty year in ayad2
+Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
+while executing---line 1133 of file acm.bst
+Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
+while executing---line 1133 of file acm.bst
+Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
+while executing---line 1133 of file acm.bst
+Warning--empty journal in zddp
+Warning--empty journal in enveroile
+Warning--empty publisher in sumuna
+Warning--empty year in sumuna
+You've used 19 entries,
+            2253 wiz_defined-function locations,
+            611 strings with 6056 characters,
+and the built_in function-call counts, 3926 in all, are:
+= -- 362
+> -- 131
+< -- 0
++ -- 57
+- -- 38
+* -- 218
+:= -- 705
+add.period$ -- 51
+call.type$ -- 19
+change.case$ -- 64
+chr.to.int$ -- 0
+cite$ -- 30
+duplicate$ -- 202
+empty$ -- 354
+format.name$ -- 38
+if$ -- 793
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 18
+newline$ -- 92
+num.names$ -- 34
+pop$ -- 105
+preamble$ -- 1
+purify$ -- 57
+quote$ -- 0
+skip$ -- 104
+stack$ -- 0
+substring$ -- 95
+swap$ -- 32
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 62
+warning$ -- 11
+while$ -- 34
+width$ -- 21
+write$ -- 179
+(There were 6 error messages)

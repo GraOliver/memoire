@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.5)  29 NOV 2024 12:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.5)  29 NOV 2024 21:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./TFC.tex
-(TFC.tex
+**./TFCfina.tex
+(TFCfina.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
@@ -587,18 +587,6 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry
 .cfg))
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.st
-y
-Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
-
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\colo
-r.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 149.
-
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolo
-r.ltx))
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncychap
 .sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
@@ -611,166 +599,6 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \pxx=\skip56
 \backskip=\skip57
 )
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\Lettrine
-.sty
-File: lettrine.sty 2024-06-26 v2.61 (Daniel Flipo)
-
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xf
-p.sty
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.st
-y
-Package: expl3 2024-01-04 L3 programming layer (loader) 
-
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backe
-nd-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
-\l__pdf_internal_box=\box51
-))
-Package: xfp 2023-10-10 L3 Floating point unit
-)
-\c@DefaultLines=\count275
-\c@DefaultDepth=\count276
-\DefaultFindent=\dimen161
-\DefaultNindent=\dimen162
-\DefaultSlope=\dimen163
-\DiscardVskip=\dimen164
-\L@lettrine=\box52
-\L@lbox=\box53
-\L@tbox=\box54
-\c@L@lines=\count277
-\c@L@depth=\count278
-\L@Pindent=\dimen165
-\L@Findent=\dimen166
-\L@Nindent=\dimen167
-\L@lraise=\dimen168
-\L@first=\dimen169
-\L@next=\dimen170
-\L@slope=\dimen171
-\L@height=\dimen172
-\L@novskip=\dimen173
-\L@ruleht=\dimen174
-\L@target@ht=\dimen175
-\L@target@dp=\dimen176
-\L@target@tht=\dimen177
-\LettrineWidth=\dimen178
-\LettrineHeight=\dimen179
-\LettrineDepth=\dimen180
-
-Loading lettrine.cfg
-
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine
-.cfg)
-\Llist@everypar=\toks22
-)
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.s
-ty
-Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip58
-
-For additional information on amsmath, use the `?' option.
-
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.s
-ty
-Package: amstext 2021/08/26 v2.01 AMS text
-
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.st
-y
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks23
-\ex@=\dimen181
-))
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
-y
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen182
-)
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.st
-y
-Package: amsopn 2022/04/08 v2.04 operator names
-)
-\inf@bad=\count279
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count280
-\leftroot@=\count281
-LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count282
-\DOTSCASE@=\count283
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box55
-\strutbox@=\box56
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen183
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count284
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count285
-\dotsspace@=\muskip16
-\c@parentequation=\count286
-\dspbrk@lvl=\count287
-\tag@help=\toks24
-\row@=\count288
-\column@=\count289
-\maxfields@=\count290
-\andhelp@=\toks25
-\eqnshift@=\dimen184
-\alignsep@=\dimen185
-\tagshift@=\dimen186
-\tagwidth@=\dimen187
-\totwidth@=\dimen188
-\lineht@=\dimen189
-\@envbody=\toks26
-\multlinegap=\skip59
-\multlinetaggap=\skip60
-\mathdisplay@stack=\toks27
-LaTeX Info: Redefining \[ on input line 2953.
-LaTeX Info: Redefining \] on input line 2954.
-)
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts
-.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
-Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks28
-\thm@bodyfont=\toks29
-\thm@headfont=\toks30
-\thm@notefont=\toks31
-\thm@headpunct=\toks32
-\thm@preskip=\skip61
-\thm@postskip=\skip62
-\thm@headsep=\skip63
-\dth@everypar=\toks33
-)
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
-
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys
-2e\l3keys2e.sty
-Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count291
-\l__lipsum_a_int=\count292
-\l__lipsum_b_int=\count293
-
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd
-.tex))
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref
 .sty
 Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
@@ -831,16 +659,16 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 ns.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count294
+\c@section@level=\count274
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox
 .sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count295
+\etb@tempcnta=\count275
 )
-\@linkdim=\dimen190
-\Hy@linkcounter=\count296
-\Hy@pagecounter=\count297
+\@linkdim=\dimen161
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.d
 ef
@@ -852,7 +680,7 @@ Now handling font encoding PD1 ...
 .sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count298
+\Hy@SavedSpaceFactor=\count278
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.de
 f
@@ -867,13 +695,13 @@ Package hyperref Info: Plain pages OFF on input line 4196.
 Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4448.
-\c@Hy@tempcnt=\count299
+\c@Hy@tempcnt=\count279
  (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen191
+\XeTeXLinkMargin=\dimen162
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.s
 ty
@@ -884,9 +712,9 @@ ntcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count300
-\Field@Width=\dimen192
-\Fld@charsize=\dimen193
+\Fld@menulength=\count280
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -900,9 +728,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6095.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count301
-\c@Item=\count302
-\c@Hfootnote=\count303
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -916,8 +744,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count304
-\c@bookmark@seq@number=\count305
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\re
 runfilecheck.sty
@@ -930,8 +758,25 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip64
+\Hy@SectionHShift=\skip58
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 18.
+
+
+! Package hyperref Error: This color specification is not supported
+(hyperref)                without package `xcolor' in
+(hyperref)                `runbordercolor=black'.
+
+See the hyperref package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 }
+      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
@@ -940,7 +785,6 @@ r.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-LaTeX Info: Redefining \color on input line 758.
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolo
 r.ltx)
@@ -964,13 +808,13 @@ f.sty
 rcs.sty
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
 gfutil-common.tex
-\pgfutil@everybye=\toks34
-\pgfutil@tempdima=\dimen194
-\pgfutil@tempdimb=\dimen195
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen165
+\pgfutil@tempdimb=\dimen166
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
 gfutil-latex.def
-\pgfutil@abb=\box57
+\pgfutil@abb=\box51
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
 gfrcs.code.tex
@@ -990,33 +834,33 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
 gfkeys.code.tex
-\pgfkeys@pathtoks=\toks35
-\pgfkeys@temptoks=\toks36
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
 gfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks37
+\pgfkeys@tmptoks=\toks25
 ))
-\pgf@x=\dimen196
-\pgf@y=\dimen197
-\pgf@xa=\dimen198
-\pgf@ya=\dimen199
-\pgf@xb=\dimen256
-\pgf@yb=\dimen257
-\pgf@xc=\dimen258
-\pgf@yc=\dimen259
-\pgf@xd=\dimen260
-\pgf@yd=\dimen261
+\pgf@x=\dimen167
+\pgf@y=\dimen168
+\pgf@xa=\dimen169
+\pgf@ya=\dimen170
+\pgf@xb=\dimen171
+\pgf@yb=\dimen172
+\pgf@xc=\dimen173
+\pgf@yc=\dimen174
+\pgf@xd=\dimen175
+\pgf@yd=\dimen176
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count306
-\c@pgf@countb=\count307
-\c@pgf@countc=\count308
-\c@pgf@countd=\count309
-\t@pgf@toka=\toks38
-\t@pgf@tokb=\toks39
-\t@pgf@tokc=\toks40
-\pgf@sys@id@count=\count310
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count290
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
 \pgf.cfg
@@ -1035,8 +879,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
 \pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count311
-\pgfsyssoftpath@bigbuffer@items=\count312
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
 \pgfsysprotocol.code.tex
@@ -1052,12 +896,12 @@ h.code.tex
 hutil.code.tex)
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
 hparser.code.tex
-\pgfmath@dimen=\dimen262
-\pgfmath@count=\count313
-\pgfmath@box=\box58
-\pgfmath@toks=\toks41
-\pgfmath@stack@operand=\toks42
-\pgfmath@stack@operation=\toks43
+\pgfmath@dimen=\dimen177
+\pgfmath@count=\count293
+\pgfmath@box=\box52
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
 hfunctions.code.tex)
@@ -1081,59 +925,59 @@ hfunctions.integerarithmetics.code.tex)
 hcalc.code.tex)
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
 hfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count314
+\c@pgfmathroundto@lastzeros=\count294
 ))
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint
 .code.tex)
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen263
-\pgf@picmaxx=\dimen264
-\pgf@picminy=\dimen265
-\pgf@picmaxy=\dimen266
-\pgf@pathminx=\dimen267
-\pgf@pathmaxx=\dimen268
-\pgf@pathminy=\dimen269
-\pgf@pathmaxy=\dimen270
-\pgf@xx=\dimen271
-\pgf@xy=\dimen272
-\pgf@yx=\dimen273
-\pgf@yy=\dimen274
-\pgf@zx=\dimen275
-\pgf@zy=\dimen276
+\pgf@picminx=\dimen178
+\pgf@picmaxx=\dimen179
+\pgf@picminy=\dimen180
+\pgf@picmaxy=\dimen181
+\pgf@pathminx=\dimen182
+\pgf@pathmaxx=\dimen183
+\pgf@pathminy=\dimen184
+\pgf@pathmaxy=\dimen185
+\pgf@xx=\dimen186
+\pgf@xy=\dimen187
+\pgf@yx=\dimen188
+\pgf@yy=\dimen189
+\pgf@zx=\dimen190
+\pgf@zy=\dimen191
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen277
-\pgf@path@lasty=\dimen278
+\pgf@path@lastx=\dimen192
+\pgf@path@lasty=\dimen193
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen279
-\pgf@shorten@start@additional=\dimen280
+\pgf@shorten@end@additional=\dimen194
+\pgf@shorten@start@additional=\dimen195
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box59
-\pgf@hbox=\box60
-\pgf@layerbox@main=\box61
-\pgf@picture@serial@count=\count315
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count295
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen281
+\pgflinewidth=\dimen196
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen282
-\pgf@pt@y=\dimen283
-\pgf@pt@temp=\dimen284
+\pgf@pt@x=\dimen197
+\pgf@pt@y=\dimen198
+\pgf@pt@temp=\dimen199
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorequick.code.tex
@@ -1150,14 +994,14 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen285
+\pgfarrowsep=\dimen256
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen286
-\pgf@sys@shading@range@num=\count316
-\pgf@shadingcount=\count317
+\pgf@max=\dimen257
+\pgf@sys@shading@range@num=\count296
+\pgf@shadingcount=\count297
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcoreimage.code.tex
@@ -1166,7 +1010,7 @@ File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box62
+\pgfexternal@startupbox=\box56
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
 pgfcorelayers.code.tex
@@ -1187,7 +1031,7 @@ File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgf
 moduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box63
+\pgfnodeparttextbox=\box57
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgf
 moduleplot.code.tex
@@ -1196,8 +1040,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility
 \pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen287
-\pgf@nodesepend=\dimen288
+\pgf@nodesepstart=\dimen258
+\pgf@nodesepend=\dimen259
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility
 \pgfcomp-version-1-18.sty
@@ -1206,8 +1050,8 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.st
 y
 Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks44
-\verbatim@line=\toks45
+\every@verbatim=\toks32
+\verbatim@line=\toks33
 \verbatim@in@stream=\read4
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.s
@@ -1217,20 +1061,22 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimsp
 aces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-))
-\tcb@titlebox=\box64
-\tcb@upperbox=\box65
-\tcb@lowerbox=\box66
-\tcb@phantombox=\box67
-\c@tcbbreakpart=\count318
-\c@tcblayer=\count319
-\c@tcolorbox@number=\count320
-\l__tcobox_tmpa_box=\box68
-\l__tcobox_tmpa_dim=\dimen289
-\tcb@temp=\box69
-\tcb@temp=\box70
-\tcb@temp=\box71
-\tcb@temp=\box72
+)
+\@envbody=\toks34
+)
+\tcb@titlebox=\box58
+\tcb@upperbox=\box59
+\tcb@lowerbox=\box60
+\tcb@phantombox=\box61
+\c@tcbbreakpart=\count298
+\c@tcblayer=\count299
+\c@tcolorbox@number=\count300
+\l__tcobox_tmpa_box=\box62
+\l__tcobox_tmpa_dim=\dimen260
+\tcb@temp=\box63
+\tcb@temp=\box64
+\tcb@temp=\box65
+\tcb@temp=\box66
 )
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer
 \tikz.sty
@@ -1247,10 +1093,10 @@ h.code.tex))
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
 gffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen290
-\pgffor@skip=\dimen291
-\pgffor@stack=\toks46
-\pgffor@toks=\toks47
+\pgffor@iter=\dimen261
+\pgffor@skip=\dimen262
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
 ))
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
 er/tikz\tikz.code.tex
@@ -1259,638 +1105,539 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\p
 gflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count321
-\pgfplotmarksize=\dimen292
+\pgf@plot@mark@count=\count301
+\pgfplotmarksize=\dimen263
 )
-\tikz@lastx=\dimen293
-\tikz@lasty=\dimen294
-\tikz@lastxsaved=\dimen295
-\tikz@lastysaved=\dimen296
-\tikz@lastmovetox=\dimen297
-\tikz@lastmovetoy=\dimen298
-\tikzleveldistance=\dimen299
-\tikzsiblingdistance=\dimen300
-\tikz@figbox=\box73
-\tikz@figbox@bg=\box74
-\tikz@tempbox=\box75
-\tikz@tempbox@bg=\box76
-\tikztreelevel=\count322
-\tikznumberofchildren=\count323
-\tikznumberofcurrentchild=\count324
-\tikz@fig@count=\count325
+\tikz@lastx=\dimen264
+\tikz@lasty=\dimen265
+\tikz@lastxsaved=\dimen266
+\tikz@lastysaved=\dimen267
+\tikz@lastmovetox=\dimen268
+\tikz@lastmovetoy=\dimen269
+\tikzleveldistance=\dimen270
+\tikzsiblingdistance=\dimen271
+\tikz@figbox=\box67
+\tikz@figbox@bg=\box68
+\tikz@tempbox=\box69
+\tikz@tempbox@bg=\box70
+\tikztreelevel=\count302
+\tikznumberofchildren=\count303
+\tikznumberofcurrentchild=\count304
+\tikz@fig@count=\count305
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgf
 modulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count326
-\pgfmatrixcurrentcolumn=\count327
-\pgf@matrix@numberofcolumns=\count328
+\pgfmatrixcurrentrow=\count306
+\pgfmatrixcurrentcolumn=\count307
+\pgf@matrix@numberofcolumns=\count308
 )
-\tikz@expandcount=\count329
+\tikz@expandcount=\count309
 
 (C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
 er/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-Package hyperref Info: Option `colorlinks' set `true' on input line 33.
- (TFC.aux
-! Undefined control sequence.
-l.11 \abx@aux@refcontext
-                        {nyt/global//global/global}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backe
+nd-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count310
+\l__pdf_internal_box=\box71
+) (TFCfina.aux (PG.aux)
+(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr
+\babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+) (Chapitre1.aux) (Chapitre2.aux))
+\openout1 = `TFCfina.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-
+pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count311
+\scratchdimen=\dimen272
+\scratchbox=\box72
+\nofMPsegments=\count312
+\nofMParguments=\count313
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count314
+\MPscratchDim=\dimen273
+\MPnumerator=\count315
+\makeMPintoPDFobject=\count316
+\everyMPtoPDFconversion=\toks38
+)
+(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epst
+opdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf
+-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Redefining \degres on input line 21.
+LaTeX Info: Redefining \up on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-30.06749pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=69.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 21.
+(TFCfina.out) (TFCfina.out)
+\@outlinefile=\write4
+\openout4 = `TFCfina.out'.
+
+\openout2 = `PG.aux'.
 
 
-! LaTeX Error: Missing \begin{document}.
+No file PG.tex.
+(TFCfina.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+)
+\tf@toc=\write5
+\openout5 = `TFCfina.toc'.
+
+ [1
+
+
+
+
+
+{C:/Users/By Grace NN/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (TFCfi
+na.lof)
+\tf@lof=\write6
+\openout6 = `TFCfina.lof'.
+
+ [2
+
+] (TFCfina.lot)
+\tf@lot=\write7
+\openout7 = `TFCfina.lot'.
+
+ [3
+
+]
+\openout2 = `Chapitre1.aux'.
+
+ (Chapitre1.tex
+Chapitre 1.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
+.
+(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+[4
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Overfull \hbox (38.83751pt too wide) in paragraph at lines 40--72
+[][]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+<Img/MoDTC et friction.png, id=212, 678.03313pt x 282.05376pt>
+File: Img/MoDTC et friction.png Graphic file (type png)
+<use Img/MoDTC et friction.png>
+Package pdftex.def Info: Img/MoDTC et friction.png  used on input line 82.
+(pdftex.def)             Requested size: 317.07614pt x 131.89818pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Img/Zddp evolution.png, id=215, 609.77812pt x 242.40562pt>
+File: Img/Zddp evolution.png Graphic file (type png)
+<use Img/Zddp evolution.png>
+Package pdftex.def Info: Img/Zddp evolution.png  used on input line 91.
+(pdftex.def)             Requested size: 317.07614pt x 126.05164pt.
+[5]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+[6 <./Img/MoDTC et friction.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Overfull \hbox (23.29521pt too wide) in paragraph at lines 113--113
+[]\T1/cmr/bx/sc/14.4 Vue d'en-semble du sys-t�me Segmentation-Piston-Chemise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+<Img/convertisseur.png, id=242, 514.92375pt x 233.87375pt>
+File: Img/convertisseur.png Graphic file (type png)
+<use Img/convertisseur.png>
+Package pdftex.def Info: Img/convertisseur.png  used on input line 121.
+(pdftex.def)             Requested size: 317.07614pt x 144.01526pt.
+[7 <./Img/Zddp evolution.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+<Img/partie du moteur.png, id=255, 321.2pt x 227.34938pt>
+File: Img/partie du moteur.png Graphic file (type png)
+<use Img/partie du moteur.png>
+Package pdftex.def Info: Img/partie du moteur.png  used on input line 134.
+(pdftex.def)             Requested size: 226.48395pt x 160.31255pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+[8 <./Img/convertisseur.png> <./Img/partie du moteur.png>]
+<Img/partie du segment.png, id=268, 324.21124pt x 191.71625pt>
+File: Img/partie du segment.png Graphic file (type png)
+<use Img/partie du segment.png>
+Package pdftex.def Info: Img/partie du segment.png  used on input line 144.
+(pdftex.def)             Requested size: 226.48395pt x 133.92839pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+[9 <./Img/partie du segment.png>]
+<Img/fonction-segment.png, id=289, 610.28pt x 284.56313pt>
+File: Img/fonction-segment.png Graphic file (type png)
+<use Img/fonction-segment.png>
+Package pdftex.def Info: Img/fonction-segment.png  used on input line 186.
+(pdftex.def)             Requested size: 317.07614pt x 147.8521pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+[10 <./Img/fonction-segment.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+<Img/regime de lubrification.png, id=300, 584.1825pt x 348.30125pt>
+File: Img/regime de lubrification.png Graphic file (type png)
+<use Img/regime de lubrification.png>
+Package pdftex.def Info: Img/regime de lubrification.png  used on input line 19
+8.
+(pdftex.def)             Requested size: 317.07614pt x 189.05244pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+<Img/Repartition des pertes mecanique.png, id=308, 562.1pt x 176.66pt>
+File: Img/Repartition des pertes mecanique.png Graphic file (type png)
+<use Img/Repartition des pertes mecanique.png>
+Package pdftex.def Info: Img/Repartition des pertes mecanique.png  used on inpu
+t line 211.
+(pdftex.def)             Requested size: 317.07614pt x 99.65134pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+<Img/repartition de regime de lubrification.png, id=310, 525.965pt x 350.81062p
+t>
+File: Img/repartition de regime de lubrification.png Graphic file (type png)
+<use Img/repartition de regime de lubrification.png>
+Package pdftex.def Info: Img/repartition de regime de lubrification.png  used o
+n input line 219.
+(pdftex.def)             Requested size: 317.07614pt x 211.49434pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+[11 <./Img/regime de lubrification.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
+
+ []
+
+[12 <./Img/Repartition des pertes mecanique.png> <./Img/repartition de regime d
+e lubrification.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+ []
+
+<Img/perte de l'energie fourni.png, id=333, 361.85187pt x 270.00874pt>
+File: Img/perte de l'energie fourni.png Graphic file (type png)
+<use Img/perte de l'energie fourni.png>
+Package pdftex.def Info: Img/perte de l'energie fourni.png  used on input line 
+241.
+(pdftex.def)             Requested size: 226.48395pt x 169.00224pt.
+
+! LaTeX Error: Unicode character ₂ (U+2082)
+               not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 \abx@aux@refcontext{n
-                          yt/global//global/global}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(PG.aux)
-(C:\Users\By Grace NN\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr
-\babel-french.tex
-Package babel Info: Importing font and identification data for french
-(babel)             from babel-fr.ini. Reported on input line 11.
-) (Chapitre1.aux)
-! Undefined control sequence.
-l.15 \abx@aux@cite
-                  {0}{Amal}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.16 \abx@aux@segm
-                  {0}{0}{Amal}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.17 \abx@aux@cite
-                  {0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.18 \abx@aux@segm
-                  {0}{0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.19 \abx@aux@cite
-                  {0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.20 \abx@aux@segm
-                  {0}{0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.21 \abx@aux@cite
-                  {0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.22 \abx@aux@segm
-                  {0}{0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.23 \abx@aux@cite
-                  {0}{Amal}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.24 \abx@aux@segm
-                  {0}{0}{Amal}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+l.246 ...duction constante des émissions de CO₂
+                                                  . Pour les modèles 2023, ...
 
-! Undefined control sequence.
-l.25 \abx@aux@cite
-                  {0}{Amal}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
-! Undefined control sequence.
-l.26 \abx@aux@segm
-                  {0}{0}{Amal}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.27 \abx@aux@cite
-                  {0}{sumuna}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! LaTeX Error: Unicode character ₂ (U+2082)
+               not set up for use with LaTeX.
 
-! Undefined control sequence.
-l.28 \abx@aux@segm
-                  {0}{0}{sumuna}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.246 ...�duction des émissions réelles de CO₂
+                                                   à 319 grammes par mile. ...
 
-! Undefined control sequence.
-l.29 \abx@aux@cite
-                  {0}{tecauto}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
-! Undefined control sequence.
-l.30 \abx@aux@segm
-                  {0}{0}{tecauto}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.31 \abx@aux@cite
-                  {0}{ayad1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
-! Undefined control sequence.
-l.32 \abx@aux@segm
-                  {0}{0}{ayad1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.33 \abx@aux@cite
-                  {0}{technologie1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.34 \abx@aux@segm
-                  {0}{0}{technologie1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 
-! Undefined control sequence.
-l.35 \abx@aux@cite
-                  {0}{technologie1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.36 \abx@aux@segm
-                  {0}{0}{technologie1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+[13 <./Img/perte de l'energie fourni.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
-! Undefined control sequence.
-l.37 \abx@aux@cite
-                  {0}{technologie1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.38 \abx@aux@segm
-                  {0}{0}{technologie1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.39 \abx@aux@cite
-                  {0}{technologie1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
-! Undefined control sequence.
-l.40 \abx@aux@segm
-                  {0}{0}{technologie1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.41 \abx@aux@cite
-                  {0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
 
-! Undefined control sequence.
-l.42 \abx@aux@segm
-                  {0}{0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.43 \abx@aux@cite
-                  {0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.44 \abx@aux@segm
-                  {0}{0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 
-! Undefined control sequence.
-l.45 \abx@aux@cite
-                  {0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.46 \abx@aux@segm
-                  {0}{0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.47 \abx@aux@cite
-                  {0}{Amal}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Overfull \hbox (7.1142pt too wide) in paragraph at lines 271--272
+\T1/cmr/m/n/10 mo-d�les plus com-plet et so-phis-ti-qu�s pour les-quels la vis-
+co-sit� va-rie avec les contraintes de cisaillement[[]][[]].
+ []
 
-! Undefined control sequence.
-l.48 \abx@aux@segm
-                  {0}{0}{Amal}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.49 \abx@aux@cite
-                  {0}{sumuna}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 
-! Undefined control sequence.
-l.50 \abx@aux@segm
-                  {0}{0}{sumuna}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.51 \abx@aux@cite
-                  {0}{tecauto}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.52 \abx@aux@segm
-                  {0}{0}{tecauto}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
-! Undefined control sequence.
-l.53 \abx@aux@cite
-                  {0}{tecauto}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.54 \abx@aux@segm
-                  {0}{0}{tecauto}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.55 \abx@aux@cite
-                  {0}{approche}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
 
-! Undefined control sequence.
-l.56 \abx@aux@segm
-                  {0}{0}{approche}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.57 \abx@aux@cite
-                  {0}{kennet}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.58 \abx@aux@segm
-                  {0}{0}{kennet}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 
-! Undefined control sequence.
-l.59 \abx@aux@cite
-                  {0}{kennet}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.60 \abx@aux@segm
-                  {0}{0}{kennet}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
 
-! Undefined control sequence.
-l.61 \abx@aux@cite
-                  {0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.62 \abx@aux@segm
-                  {0}{0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+) [16]
+\openout2 = `Chapitre2.aux'.
 
-! Undefined control sequence.
-l.63 \abx@aux@cite
-                  {0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ (Chapitre2.tex
+Chapitre 2.
 
-! Undefined control sequence.
-l.64 \abx@aux@segm
-                  {0}{0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
-! Undefined control sequence.
-l.65 \abx@aux@cite
-                  {0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.66 \abx@aux@segm
-                  {0}{0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.67 \abx@aux@cite
-                  {0}{stephen}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
-! Undefined control sequence.
-l.68 \abx@aux@segm
-                  {0}{0}{stephen}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.69 \abx@aux@cite
-                  {0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.70 \abx@aux@segm
-                  {0}{0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
-! Undefined control sequence.
-l.71 \abx@aux@cite
-                  {0}{Amal}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.72 \abx@aux@segm
-                  {0}{0}{Amal}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+[17
 
-! Undefined control sequence.
-l.73 \abx@aux@cite
-                  {0}{Arup}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.74 \abx@aux@segm
-                  {0}{0}{Arup}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.75 \abx@aux@cite
-                  {0}{ayad1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.76 \abx@aux@segm
-                  {0}{0}{ayad1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+]
+<Img/ondulation.png, id=387, 356.83313pt x 161.60374pt>
+File: Img/ondulation.png Graphic file (type png)
+<use Img/ondulation.png>
+Package pdftex.def Info: Img/ondulation.png  used on input line 20.
+(pdftex.def)             Requested size: 317.07614pt x 143.60495pt.
 
 ! Undefined control sequence.
-l.77 \abx@aux@cite
-                  {0}{tribo1}
+l.29 \lettrine
+              {L}{a} majeur partie des pièces de moteur vient de l'industri...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+<Img/caracterisation.png, id=393, 647.92062pt x 189.70876pt>
+File: Img/caracterisation.png Graphic file (type png)
+<use Img/caracterisation.png>
+Package pdftex.def Info: Img/caracterisation.png  used on input line 33.
+(pdftex.def)             Requested size: 317.07614pt x 92.83942pt.
 ! Undefined control sequence.
-l.78 \abx@aux@segm
-                  {0}{0}{tribo1}
+l.38 \lettrine
+              {D}{ans} cette technique, un film protecteur est posé sur la ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1898,323 +1645,186 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.79 \abx@aux@cite
-                  {0}{trobo2}
+l.40 \lettrine
+              {D}{ans} ce procédé d’usinage, un diamant est utilisé pou...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+[18 <./Img/ondulation.png> <./Img/caracterisation.png>]
 ! Undefined control sequence.
-l.80 \abx@aux@segm
-                  {0}{0}{trobo2}
+l.49 \lettrine
+              {L}{e} Tout premier appareil de mesure du profil de la surface...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.81 \abx@aux@cite
-                  {0}{tribo1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.82 \abx@aux@segm
-                  {0}{0}{tribo1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
-! Undefined control sequence.
-l.83 \abx@aux@cite
-                  {0}{trobo2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
+<Img/profil surface.png, id=409, 511.9125pt x 252.945pt>
+File: Img/profil surface.png Graphic file (type png)
+<use Img/profil surface.png>
+Package pdftex.def Info: Img/profil surface.png  used on input line 61.
+(pdftex.def)             Requested size: 317.07614pt x 156.67375pt.
+<Img/analysedistribution.png, id=410, 550.055pt x 217.31187pt>
+File: Img/analysedistribution.png Graphic file (type png)
+<use Img/analysedistribution.png>
+Package pdftex.def Info: Img/analysedistribution.png  used on input line 68.
+(pdftex.def)             Requested size: 317.07614pt x 125.27167pt.
+[19 <./Img/profil surface.png> <./Img/analysedistribution.png>]
 ! Undefined control sequence.
-l.84 \abx@aux@segm
-                  {0}{0}{trobo2}
+l.94 	RSk=\frac{1}{L{R}_{q}^{3}}\underset
+                                         {0}{\int }{z}^{3}\left(x\right)dx
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.85 \abx@aux@cite
-                  {0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.86 \abx@aux@segm
-                  {0}{0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
-! Undefined control sequence.
-l.87 \abx@aux@cite
-                  {0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.88 \abx@aux@segm
-                  {0}{0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.89 \abx@aux@cite
-                  {0}{tribo1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
-! Undefined control sequence.
-l.90 \abx@aux@segm
-                  {0}{0}{tribo1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.91 \abx@aux@cite
-                  {0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.92 \abx@aux@segm
-                  {0}{0}{ayad2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 114--118
 
-! Undefined control sequence.
-l.93 \abx@aux@cite
-                  {0}{hafedh}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.94 \abx@aux@segm
-                  {0}{0}{hafedh}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
-(Chapitre2.aux)
-! Undefined control sequence.
-l.96 \abx@aux@cite
-                  {0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.97 \abx@aux@segm
-                  {0}{0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+<Img/image topographique.png, id=439, 510.90875pt x 238.39063pt>
+File: Img/image topographique.png Graphic file (type png)
+<use Img/image topographique.png>
+Package pdftex.def Info: Img/image topographique.png  used on input line 127.
+(pdftex.def)             Requested size: 317.07614pt x 147.94615pt.
 
-! Undefined control sequence.
-l.98 \abx@aux@cite
-                  {0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
-! Undefined control sequence.
-l.99 \abx@aux@segm
-                  {0}{0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.100 \abx@aux@cite
-                   {0}{ayad1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.101 \abx@aux@segm
-                   {0}{0}{ayad1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
-! Undefined control sequence.
-l.102 \abx@aux@cite
-                   {0}{ayad1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.103 \abx@aux@segm
-                   {0}{0}{ayad1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.104 \abx@aux@cite
-                   {0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
-! Undefined control sequence.
-l.105 \abx@aux@segm
-                   {0}{0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.106 \abx@aux@cite
-                   {0}{ayad1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.107 \abx@aux@segm
-                   {0}{0}{ayad1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
-! Undefined control sequence.
-l.108 \abx@aux@cite
-                   {0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ []
 
-! Undefined control sequence.
-l.109 \abx@aux@segm
-                   {0}{0}{initiation}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+[21 <./Img/image topographique.png>]
+! Double subscript.
+l.156 	\sigma =\sqrt{{R}_{q}_
+                             {segment}^{2}+{R}_{q}_{chemise}^{2}}
+I treat `x_1_2' essentially like `x_1{}_2'.
 
-! Undefined control sequence.
-l.110 \abx@aux@cite
-                   {0}{trobo2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! Double subscript.
+l.156 ...gma =\sqrt{{R}_{q}_{segment}^{2}+{R}_{q}_
+                                                  {chemise}^{2}}
+I treat `x_1_2' essentially like `x_1{}_2'.
 
-! Undefined control sequence.
-l.111 \abx@aux@segm
-                   {0}{0}{trobo2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+<Img/mode delubrification par le triplet.png, id=452, 557.58313pt x 294.60063pt
+>
+File: Img/mode delubrification par le triplet.png Graphic file (type png)
+<use Img/mode delubrification par le triplet.png>
+Package pdftex.def Info: Img/mode delubrification par le triplet.png  used on i
+nput line 162.
+(pdftex.def)             Requested size: 317.07614pt x 167.533pt.
+[22 <./Img/mode delubrification par le triplet.png>]) [23] (TFCfina.bbl
+! Misplaced alignment tab character &.
+l.43 \newblock Taylor &
+                        Francis, 2012.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-! Undefined control sequence.
-l.112 \abx@aux@cite
-                   {0}{costin}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-l.113 \abx@aux@segm
-                   {0}{0}{costin}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! LaTeX Error: Unicode character  (U+000B)
+               not set up for use with LaTeX.
 
-! Undefined control sequence.
-l.114 \abx@aux@cite
-                   {0}{tribo1}
-(That makes 100 errors; please try again.) 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 \newblock Ecological and health e
+                                       ects of lubricant oils emitted into the
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+) [24
+
+
+
+] (TFCfina.aux (PG.aux) (Chapitre1.aux) (Chapitre2.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+Package rerunfilecheck Info: File `TFCfina.out' has not changed.
+(rerunfilecheck)             Checksum: 131AA9DAF7AE85A2A60A0D6CBF94E10C;6045.
+ ) 
 Here is how much of TeX's memory you used:
- 24623 strings out of 474485
- 483772 string characters out of 5740867
- 1926542 words of memory out of 5000000
- 46523 multiletter control sequences out of 15000+600000
- 558832 words of font info for 37 fonts, out of 8000000 for 9000
+ 24103 strings out of 474485
+ 475456 string characters out of 5740867
+ 1942542 words of memory out of 5000000
+ 45874 multiletter control sequences out of 15000+600000
+ 572596 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,0n,93p,418b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,9n,87p,1338b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecti1000.pk> <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm1000.pk> <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\By Grace NN\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\By Grace NN\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsc1000.pk> <C:\Users\By Gra
+ce NN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\
+Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1
+200.pk> <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecxc1440.pk> <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\By Grace NN\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\By Grace NN\AppData\Local
+\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss2488.pk> <C:\Users\By Grace NN\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk> <C:\Users\B
+y Grace NN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk>
+ <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecrm1000.pk> <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
+n/ec/dpi600\ecxc1000.pk> <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\By Grace NN\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk><C:/Users/By Grace NN/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/By Gra
+ce NN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+C:/Users/By Grace NN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi7.pfb><C:/Users/By Grace NN/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/By Grace NN/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/By Grace NN/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on TFCfina.pdf (24 pages, 2235223 bytes).
+PDF statistics:
+ 1099 PDF objects out of 1200 (max. 8388607)
+ 119 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!

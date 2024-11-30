@@ -8,18 +8,17 @@
 \contentsline {subsection}{\numberline {1.1.3}Les Additifs}{5}{subsection.1.1.3}%
 \contentsline {subsubsection}{Comportement Tribologique de MoDTC et ZDDP}{5}{section*.6}%
 \contentsline {subsection}{\numberline {1.1.4}Les Revêtements de surface}{6}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Impacte de lubrifiant moteur dans la nature}{7}{subsection.1.1.5}%
 \contentsline {section}{\numberline {1.2}\textsc {Vue d'ensemble du système Segmentation-Piston-Chemise et état de l'art} }{7}{section.1.2}%
 \contentsline {subsection}{\numberline {1.2.1}Moteur à combustion interne}{7}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Description du système Segment Chemise}{7}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}Lubrification du système Segment-Chemise-Piston}{9}{subsection.1.2.3}%
-\contentsline {section}{\numberline {1.3}\textsc {Moteur à combustion interne}}{11}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Fonctionnement du moteur}{12}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Rendement du moteur}{13}{subsection.1.3.2}%
-\contentsline {section}{\numberline {1.4}\textsc {Etat de l'art}}{14}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Perspective historique}{14}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Modelisation de la lubrification et du frottement}{15}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.4.3}La texturation de surface}{15}{subsection.1.4.3}%
-\contentsline {subsection}{\numberline {1.4.4}Conclusion}{16}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.2.2}Description du Segment}{8}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Description de la Chemise}{10}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Lubrification du système Segment-Chemise-Piston}{10}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Influence du système SPC sur rendement moteur}{13}{subsection.1.2.5}%
+\contentsline {section}{\numberline {1.3}\textsc {Etat de l'art}}{14}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Perspective historique}{14}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Modelisation de la lubrification et du frottement}{14}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}La texturation de surface}{15}{subsection.1.3.3}%
 \contentsline {chapter}{\numberline {2}\textsc {Modélisation du système Segment Piston Chemise (SPC)}}{17}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Caractérisation de la topographie de la chemise}{17}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Méthodes des texturations des chemises}{18}{subsection.2.1.1}%

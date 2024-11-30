@@ -8,6 +8,11 @@
 {\em THERMODYNAMIQUE, une approche pragmatique}.
 \newblock Chanelière éducation, 2014, ch.~chapter 9.
 
+\bibitem{epa}
+{\sc Agency, U. E.~P.}
+\newblock Epa report shows us fuel economy hits record high and co2 emissions
+  reach a record low.
+
 \bibitem{ayad2}
 {\sc AYAD, A.}
 \newblock {\em MODELISATION DES PERFORMANCES DE LA SEGMENTATION DANS UN MOTEUR
@@ -53,8 +58,13 @@
 {\sc CACIU, C.~A.}
 \newblock {\em Analyse et optimisation des surfaces des chemises de moteurs
   thermiques}.
-\newblock PhD thesis, l’´Ecole Nationale Sup´erieure des Mines de Paris,
+\newblock PhD thesis, l’´Ecole Nationale Supérieure des Mines de Paris,
   Fontainebleau, Soutenue le 15 Mai 2006.
+
+\bibitem{zddp}
+{\sc G.~Liskiewicza, P.~Kulaa, A. N. R. P. A. M. T.~L.}
+\newblock Hydrogen influence on material interaction with zddp and modtc
+  lubricant additives.
 
 \bibitem{Arup}
 {\sc Gangopadh, A.}
@@ -81,6 +91,11 @@
 {\sc HUBERT~MÈMETEAU, B.~C.}
 \newblock {\em Technologie fonctionnelle de l'automobile}.
 \newblock Dunod, 2014.
+
+\bibitem{enveroile}
+{\sc Paulina Nowak~*, K.~K., and Kaminski, M.}
+\newblock Ecological and health eects of lubricant oils emitted into the
+  environment.
 
 \bibitem{sumuna}
 {\sc Sumuna}.
