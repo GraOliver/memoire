@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.5)  29 NOV 2024 21:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.5)  1 DEC 2024 00:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1751,7 +1751,36 @@ File: Img/mode delubrification par le triplet.png Graphic file (type png)
 Package pdftex.def Info: Img/mode delubrification par le triplet.png  used on i
 nput line 162.
 (pdftex.def)             Requested size: 317.07614pt x 167.533pt.
-[22 <./Img/mode delubrification par le triplet.png>]) [23] (TFCfina.bbl
+[22 <./Img/mode delubrification par le triplet.png>]
+
+! LaTeX Error: Unicode character θ (U+03B8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.221 ...si harmonique de la position angulaire θ
+                                                   du vilebrequin, en relati...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ω (U+03C9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.221 ... en relation avec la vitesse angulaire ω
+                                                  , conformément à l'expre...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+) [23] (TFCfina.bbl
 ! Misplaced alignment tab character &.
 l.43 \newblock Taylor &
                         Francis, 2012.
@@ -1788,13 +1817,13 @@ Package rerunfilecheck Info: File `TFCfina.out' has not changed.
 (rerunfilecheck)             Checksum: 131AA9DAF7AE85A2A60A0D6CBF94E10C;6045.
  ) 
 Here is how much of TeX's memory you used:
- 24103 strings out of 474485
- 475456 string characters out of 5740867
+ 24111 strings out of 474485
+ 475568 string characters out of 5740867
  1942542 words of memory out of 5000000
- 45874 multiletter control sequences out of 15000+600000
+ 45878 multiletter control sequences out of 15000+600000
  572596 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,9n,87p,1338b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,9n,87p,1338b,537s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecti1000.pk> <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\tcrm1000.pk> <C:\Users\By Grace NN\AppData\Local\MiKTeX\fonts/pk/
@@ -1822,9 +1851,9 @@ cm/cmmi7.pfb><C:/Users/By Grace NN/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr10.pfb><C:/Users/By Grace NN/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/By Grace NN/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on TFCfina.pdf (24 pages, 2235223 bytes).
+Output written on TFCfina.pdf (24 pages, 2243131 bytes).
 PDF statistics:
- 1099 PDF objects out of 1200 (max. 8388607)
- 119 named destinations out of 1000 (max. 500000)
+ 1106 PDF objects out of 1200 (max. 8388607)
+ 123 named destinations out of 1000 (max. 500000)
  301 words of extra memory for PDF output out of 10000 (max. 10000000)
 

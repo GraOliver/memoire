@@ -1,5 +1,5 @@
 \chapter{\textsc{Modélisation du système Segment Piston Chemise (SPC)}}\label{Modelisation}
-La compréhension du comportement des surfaces en contact dans les système \emph{SPC}, a une importance capitale dans l'amélioration de performance du moteur à combustion interne comme nous le verrons plus loin dans l'exposé. La lubrification qui se produit dans l'interface \emph{SPC} impose une certaine forme assez particulière de mode de lubrification qui couvre le régime mixte, hydrodynamique et critique (\ref{generalite}). Ainsi pour la tribologie. On peut classer les défauts en fonction de leur longueurs d’onde $L$ Image \ref{fig:ondulation}  \cite{initiation} :
+La compréhension du comportement des surfaces en contact dans les système \emph{SPC}, a une importance capitale dans l'amélioration de performance du moteur à combustion interne comme nous le verrons plus loin dans l'exposé. La lubrification qui se produit dans l'interface \emph{SPC} impose une certaine forme assez particulière de mode de lubrification qui couvre le régime mixte, hydrodynamique et critique (Chapitre \ref{generalite}). Ainsi pour la tribologie. On peut classer les défauts en fonction de leur longueurs d’onde $L$ Image \ref{fig:ondulation}  \cite{initiation} :
 
 \section{Caractérisation de la topographie de la chemise}
 La prise en compte de la caractérisation de la surface, influence en grande partie sur les performances du moteur. celle-ci influence la qualité de la séparation du contact mais aussi le transport du lubrifiant par les segments le long de la chemise.\\
@@ -194,4 +194,35 @@ Dans le cadre de notre travail, une étude en 2-D est employée, dans laquelle l
 $p$ étant la pression hydrodynamique dans le film d'huile, $\mu$ la viscosité dynamique de l'huile, $h$ épaisseur du film d'huile sous les segments, $U$ la vitesse de rotation. ainsi nous obtenons une équation beaucoup plus potable.
 
 \subsection{Equation de Reynold Modifiée}
-
+Le modèle de lubrification dynamique proposé par Patir et Cheng repose sur une adaptation de la théorie classique de Greenwood et Williamson, qui décrit les contacts entre surfaces rugueuses. Leur approche modifie les équations classiques pour inclure les effets de rugosité en utilisant des facteurs correctifs pour le débit et la pression à travers les micro-cavités des surfaces en contact. Cette méthode permet d'intégrer à la fois les effets hydrodynamiques et ceux dus à la micro-géométrie des aspérités, rendant le modèle plus réaliste pour des applications pratiques, notamment dans des conditions de lubrification mixte.\cite{tribo1}
+\begin{equation}
+	\frac{\partial}{\partial x}(\phi_{x} \frac{h^3}{\mu_{m}} \frac{\partial p}{\partial x}) = \frac{U}{2} \frac{\partial}{\partial x}(h_{T}-\partial \phi_{s})+\frac{\partial h_{T}}{\partial t}
+	\label{eq_reynold_modifie}
+\end{equation}
+si Nous prenons 
+$$ U \frac{\partial h}{\partial x} \sim LN \frac{h}{b}$$
+Et aussi 
+$$\frac{\partial h}{\partial t} \sim hN $$
+en faisant le rapport de ce deux nous obtenons donc 
+$$ \frac{\frac{\partial h}{\partial t}}{U\frac{\partial h}{\partial x}} \sim \frac{b}{L}<< 1 $$
+Cette maneuvre viser à reduire l'équation de Reynold tels que modifiée, cette simplification est vqlide dans toute les parties du cycle, ainsi l'équation (\ref{eq_reynold_modifie}) devient donc :
+\begin{equation}
+	\frac{\partial}{\partial x}\left(\phi_{x} \frac{h^3}{\mu_{m}} \frac{dp}{dx}\right) =\frac{U}{2}\left(h_{T}-\sigma \phi_{s}\right)
+	\label{eq_reynold_simplifie}
+\end{equation}
+\begin{itemize}
+	\item $N$ est la vitesse du moteur en tr/s ;
+	\item $L$ est la longueur de la course ;
+	\item $h$ est l'épaisseur de film d'huile sous le segment ;
+	\item $U$ est la vitesse de piston ;
+	\item $\mu_{m}$ est la viscosité dynamique du lubrifiant ;
+	\item $b$ est la taille axiale du segment.
+\end{itemize}
+La vitesse instantanée U du piston peut être décrite par une fonction quasi harmonique de la position angulaire θ du vilebrequin, en relation avec la vitesse angulaire ω, conformément à l'expression :
+\begin{equation}
+	U =\frac{R}{b}\sin{\theta} \left(1-\frac{\cos\theta}{\sqrt{(\frac{L}{b})^2-\sin\theta}}\right)b\omega
+\end{equation}
+La vitesse angulaire est elle‐même liée à la vitesse du moteur par la relation :
+\begin{equation}
+	\omega =\frac{2\pi}{60}N
+\end{equation}
