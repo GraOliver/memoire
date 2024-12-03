@@ -1,104 +1,103 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{}
 
-\bibitem{technologie1}
+\bibitem[tec, ]{technologie1}
 {\em Technologie des moteurs alternatifs à combustion interne}.
 \newblock traité Génie mécanique.
 
-\bibitem{approche}
-{\em THERMODYNAMIQUE, une approche pragmatique}.
-\newblock Chanelière éducation, 2014, ch.~chapter 9.
+\bibitem[app, 2014]{approche}
+ (2014).
+\newblock {\em THERMODYNAMIQUE, une approche pragmatique}, chapter chapter 9.
+\newblock Chanelière éducation.
 
-\bibitem{epa}
-{\sc Agency, U. E.~P.}
+\bibitem[Agency, ]{epa}
+Agency, U. E.~P.
 \newblock Epa report shows us fuel economy hits record high and co2 emissions
   reach a record low.
 
-\bibitem{ayad2}
-{\sc AYAD, A.}
+\bibitem[AYAD, ]{ayad2}
+AYAD, A.
 \newblock {\em MODELISATION DES PERFORMANCES DE LA SEGMENTATION DANS UN MOTEUR
   A COMBUSTION INTERNE}.
 \newblock PhD thesis, Université Badji Mokhtar.
 
-\bibitem{ayad1}
-{\sc AYAD, A.}
+\bibitem[AYAD, 2008]{ayad1}
+AYAD, A. (2008).
 \newblock Etude du contact segment racleur/ chemise dans un moteur À
   combustion interne.
-\newblock Master's thesis, UNIVERSITE BADJI MOKHTAR-ANNABA, 2008.
+\newblock Master's thesis, UNIVERSITE BADJI MOKHTAR-ANNABA.
 
-\bibitem{tribo1}
-{\sc Booser, M. M. K. E.~R.}
+\bibitem[Booser, 2017]{tribo1}
+Booser, M. M. K. E.~R. (2017).
 \newblock {\em Applied Tribology, Bearing Design and Lubrification}.
-\newblock Wiley, 2017.
+\newblock Wiley.
 
-\bibitem{hafedh}
-{\sc Bouassida, H.}
+\bibitem[Bouassida, 2014]{hafedh}
+Bouassida, H. (2014).
 \newblock {\em Lubricated piston ring cylinder liner contact : Influence of the
   liner microgeometry}.
-\newblock PhD thesis, L’INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE LYON,
-  2014.
+\newblock PhD thesis, L’INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE LYON.
 
-\bibitem{trobo2}
-{\sc Bruce, R.~W.}
+\bibitem[Bruce, 2012]{trobo2}
+Bruce, R.~W. (2012).
 \newblock {\em HANDBOOK of LUBRICATION and TRIBOLOGY}.
-\newblock Taylor & Francis, 2012.
+\newblock Taylor & Francis.
 
-\bibitem{initiation}
-{\sc Brunetière, N.}
+\bibitem[Brunetière, 2016]{initiation}
+Brunetière, N. (2016).
 \newblock {\em Initiation à la tribologie}.
-\newblock Institut Pprime - Futuroscope, 2016.
+\newblock Institut Pprime - Futuroscope.
 
-\bibitem{costin}
-{\sc Caciu, C.}
+\bibitem[Caciu, 2006]{costin}
+Caciu, C. (le 15 Mai 2006).
 \newblock {\em Analyse et optimisation des surfaces des chemises de moteurs
   thermiques}.
-\newblock PhD thesis, Ecole Nationale Sup´erieure des Mines de Pari, le 15 Mai
-  2006.
+\newblock PhD thesis, Ecole Nationale Sup´erieure des Mines de Pari.
 
-\bibitem{these1}
-{\sc CACIU, C.~A.}
+\bibitem[CACIU, 2006]{these1}
+CACIU, C.~A. (Soutenue le 15 Mai 2006).
 \newblock {\em Analyse et optimisation des surfaces des chemises de moteurs
   thermiques}.
 \newblock PhD thesis, l’´Ecole Nationale Supérieure des Mines de Paris,
-  Fontainebleau, Soutenue le 15 Mai 2006.
+  Fontainebleau.
 
-\bibitem{zddp}
-{\sc G.~Liskiewicza, P.~Kulaa, A. N. R. P. A. M. T.~L.}
+\bibitem[G.~Liskiewicza, ]{zddp}
+G.~Liskiewicza, P.~Kulaa, A. N. R. P. A. M. T.~L.
 \newblock Hydrogen influence on material interaction with zddp and modtc
   lubricant additives.
 
-\bibitem{Arup}
-{\sc Gangopadh, A.}
+\bibitem[Gangopadh, 2000]{Arup}
+Gangopadh, A. (2000).
 \newblock Development of a piston ring-cylinder bore wear borne.
-\newblock {\em SAE Transactions\/} (2000).
+\newblock {\em SAE Transactions}.
 
-\bibitem{stephen}
-{\sc Hill, S.~H., and Newman, B.~A.}
+\bibitem[Hill and Newman, 1984]{stephen}
+Hill, S.~H. and Newman, B.~A. (1984).
 \newblock 841222 piston ring designs for reduced friction.
-\newblock {\em SAE Transactions\/} (1984).
+\newblock {\em SAE Transactions}.
 
-\bibitem{kennet}
-{\sc Homlberg, K.}
+\bibitem[Homlberg, 2012]{kennet}
+Homlberg, K. (2012).
 \newblock Global energy consumption due to friction in passenger cars.
-\newblock {\em Tribologie international\/} (2012).
+\newblock {\em Tribologie international}.
 
-\bibitem{Amal}
-{\sc Hriouech, A.}
+\bibitem[Hriouech, 2021]{Amal}
+Hriouech, A. (15 novembre 2021).
 \newblock {\em Étude de surfaces texturées pour chemise moteur :
   physico-chimie des tribofilms et lois de frottement associées}.
-\newblock PhD thesis, L’UNIVERSITÉ DE LYON, 15 novembre 2021.
+\newblock PhD thesis, L’UNIVERSITÉ DE LYON.
 
-\bibitem{tecauto}
-{\sc HUBERT~MÈMETEAU, B.~C.}
+\bibitem[HUBERT~MÈMETEAU, 2014]{tecauto}
+HUBERT~MÈMETEAU, B.~C. (2014).
 \newblock {\em Technologie fonctionnelle de l'automobile}.
-\newblock Dunod, 2014.
+\newblock Dunod.
 
-\bibitem{enveroile}
-{\sc Paulina Nowak~*, K.~K., and Kaminski, M.}
+\bibitem[Paulina Nowak~* and Kaminski, ]{enveroile}
+Paulina Nowak~*, K.~K. and Kaminski, M.
 \newblock Ecological and health eects of lubricant oils emitted into the
   environment.
 
-\bibitem{sumuna}
-{\sc Sumuna}.
+\bibitem[Sumuna, ]{sumuna}
+Sumuna.
 \newblock {\em MOTEURS ALTERNATIFS A COMBUSTION INTERNE}.
 
 \end{thebibliography}

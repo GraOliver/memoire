@@ -5,51 +5,34 @@
 \usepackage[francais]{babel}
 \usepackage[a4paper,margin=1in]{geometry}
 
-\usepackage{color}
-\definecolor{titre}{RGB}{0,121,181}
-\newcommand{\couleurT}{\color{titre}}
-
-%%%% Fancy chapeter
+%% LES FONCTIONS DU CHAPITRE ET STYLE DE PAGE
 \usepackage[Glenn]{fncychap}
-\usepackage{Lettrine}
-\usepackage{amsmath,amsfonts,amsthm,geometry,lipsum}
 \usepackage{hyperref}
 
-%%%% couleur
+%% 
 \usepackage{xcolor,tcolorbox,tikz}
-\usepackage{graphicx}    % Pour gérer les images
-%% Bibiographie
-%\usepackage[style=authoryear]{biblatex}
-%%%%% Proprieté des liens dans le texte
-\hypersetup{
-    colorlinks =true,
-    linkcolor=black,
-    urlcolor=black,
-    runbordercolor=black,
-    runcolor=black,
-    citecolor=black,
-}
-%% debut du doncument
-
+%% match
+\usepackage{amsmath}
 \begin{document}
-%%%/////////////////////// Page de Garde ///////////////////////////////////////
-\include{PG}
-%% Page des garde
-
-\color{black}
-\tableofcontents
-\listoffigures
-\listoftables
-%%//////////////////////////////////////// CHAPITRE 1 /////
-\include {"Chapitre1"}
-%%!!!!!!!!!!!!!!!!!!!!! chapitre 2
-\include{"Chapitre2"}
-%%///////// Création de la bibliographie
-\nocite{*}
-\bibliographystyle{apalike}
-\bibliography{bibliographie}
-
-\vspace{2cm}
-%%% Annexe
-
+	%%%/////////////////////// Page de Garde ///////////////////////////////////////
+	\include{PG}
+	%% Page des garde
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	%%//////////////////////////////////////// CHAPITRE 1 /////
+	\include {"Chapitre1"}
+	%%!!!!!!!!!!!!!!!!!!!!! chapitre 2
+	\include{"Chapitre2"}
+	%!!!!!!!!!!!!!!!!!!!!!! Chapitre 3
+	\include{"chapitre3"}
+	%%///////// Création de la bibliographie
+	\nocite{*}
+	%%\bibliographystyle{authoryear}
+	\bibliographystyle{acm}
+	\bibliography{bibliographie}
+	
+	\vspace{2cm}
+	%%% Annexe
+	
 \end{document}

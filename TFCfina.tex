@@ -12,12 +12,13 @@
 	colorlinks =true,
 	linkcolor=black,
 	urlcolor=black,
-	runbordercolor=black,
 	runcolor=black,
-	citecolor=black,
+	citecolor=black
 }
 %% 
-\usepackage{xcolor,tcolorbox,tikz}
+
+\usepackage{xcolor,tcolorbox,tikz,siunitx,esint}
+%\usepackage{amsmath}
 \begin{document}
 	%%%/////////////////////// Page de Garde ///////////////////////////////////////
 	\include{PG}
@@ -29,10 +30,12 @@
 	\include {"Chapitre1"}
 	%%!!!!!!!!!!!!!!!!!!!!! chapitre 2
 	\include{"Chapitre2"}
+	%!!!!!!!!!!!!!!!!!!!!!! Chapitre 3
+	\include{"chapitre3"}
 	%%///////// Création de la bibliographie
 	\nocite{*}
 	%%\bibliographystyle{authoryear}
-	\bibliographystyle{acm}
+	\bibliographystyle{apalike}
 	\bibliography{bibliographie}
 	
 	\vspace{2cm}

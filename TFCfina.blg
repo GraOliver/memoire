@@ -7,72 +7,83 @@ Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Chapitre1.aux
 Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: Chapitre2.aux
-Reallocating 'name_of_file' (item size: 1) to 4 items.
-The style file: acm.bst
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: chapitre3.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 14 items.
 Database file #1: bibliographie.bib
 Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
-while executing---line 1092 of file acm.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
-while executing---line 1092 of file acm.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
-while executing---line 1092 of file acm.bst
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
+while executing---line 1023 of file apalike.bst
 Warning--to sort, need author, editor, or key in approche
 Warning--to sort, need author, editor, or key in technologie1
 Warning--empty author and editor in technologie1
 Warning--empty year in technologie1
 Warning--empty author and editor in approche
+Warning--empty year in epa
 Warning--empty journal in epa
 Warning--empty year in ayad2
 Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
-while executing---line 1133 of file acm.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
-while executing---line 1133 of file acm.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "G. Liskiewicza, P. Kulaa, A. Nevilleb, R. Pietrasika, A. Morinab, T. Liskiewiczb" for entry zddp
-while executing---line 1133 of file acm.bst
+while executing---line 1098 of file apalike.bst
+Warning--empty year in zddp
 Warning--empty journal in zddp
+Warning--empty year in enveroile
 Warning--empty journal in enveroile
-Warning--empty publisher in sumuna
 Warning--empty year in sumuna
+Warning--empty publisher in sumuna
 You've used 19 entries,
-            2253 wiz_defined-function locations,
-            611 strings with 6056 characters,
-and the built_in function-call counts, 3926 in all, are:
-= -- 362
+            1935 wiz_defined-function locations,
+            556 strings with 5862 characters,
+and the built_in function-call counts, 5149 in all, are:
+= -- 486
 > -- 131
-< -- 0
-+ -- 57
+< -- 18
++ -- 38
 - -- 38
-* -- 218
-:= -- 705
-add.period$ -- 51
+* -- 343
+:= -- 962
+add.period$ -- 52
 call.type$ -- 19
-change.case$ -- 64
-chr.to.int$ -- 0
-cite$ -- 30
-duplicate$ -- 202
-empty$ -- 354
-format.name$ -- 38
-if$ -- 793
-int.to.chr$ -- 0
-int.to.str$ -- 19
+change.case$ -- 102
+chr.to.int$ -- 19
+cite$ -- 35
+duplicate$ -- 253
+empty$ -- 402
+format.name$ -- 59
+if$ -- 983
+int.to.chr$ -- 1
+int.to.str$ -- 0
 missing$ -- 18
-newline$ -- 92
-num.names$ -- 34
-pop$ -- 105
+newline$ -- 93
+num.names$ -- 51
+pop$ -- 134
 preamble$ -- 1
-purify$ -- 57
+purify$ -- 114
 quote$ -- 0
-skip$ -- 104
+skip$ -- 181
 stack$ -- 0
-substring$ -- 95
-swap$ -- 32
-text.length$ -- 0
+substring$ -- 230
+swap$ -- 16
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 62
-warning$ -- 11
+type$ -- 100
+warning$ -- 14
 while$ -- 34
-width$ -- 21
-write$ -- 179
-(There were 6 error messages)
+width$ -- 0
+write$ -- 221
+(There were 9 error messages)

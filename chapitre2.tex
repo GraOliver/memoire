@@ -26,7 +26,7 @@ Toutes les surfaces, naturel ou fabriqué, ne sont pas parfaitement lisses. La s
 douce dans les corps normaux est celle du \emph{mica}. Le \emph{mica} a une rugosité approximativement de $0.002032 microns$.\cite{ayad1}
 
 \subsection{Méthodes des texturations des chemises}
-\lettrine{L}{a} majeur partie des pièces de moteur vient de l'industrie métallurgique. Dans leur procéder de fabrication plusieurs méthodes de finissage de la surface sont employées. Le principale étant l'abrasion par \emph{galetage} \footnote{Techniquqe de finissage  de la surface qui peut avoir plusieurs objectifs comme le renforcement mécanique de la surface} et \emph{ grenaillage} \footnote{c'est une technique qui consiste à projeter à grande vitesse des billes sur la surface d'un objet pour en modifier la structure superficielle, a fin d'améliorer l'aspect et les caractéristiques techniques.} sont les premières opérations qui vont permettre une maîtrise de rugosité jusqu’à un ordre de grandeur de 0.5mm.\cite{ayad1} À partir de l’état de surface obtenu, on cherchera à introduire une "texturation" qui va permettre de créer une rugosité plus "précise" sur l’interface de la surface (figure \ref{fig:caracterisation}).
+La majeur partie des pièces de moteur vient de l'industrie métallurgique. Dans leur procéder de fabrication plusieurs méthodes de finissage de la surface sont employées. Le principale étant l'abrasion par \emph{galetage} \footnote{Techniquqe de finissage  de la surface qui peut avoir plusieurs objectifs comme le renforcement mécanique de la surface} et \emph{ grenaillage} \footnote{c'est une technique qui consiste à projeter à grande vitesse des billes sur la surface d'un objet pour en modifier la structure superficielle, a fin d'améliorer l'aspect et les caractéristiques techniques.} sont les premières opérations qui vont permettre une maîtrise de rugosité jusqu’à un ordre de grandeur de 0.5mm.\cite{ayad1} À partir de l’état de surface obtenu, on cherchera à introduire une "texturation" qui va permettre de créer une rugosité plus "précise" sur l’interface de la surface (figure \ref{fig:caracterisation}).
 % TODO: \usepackage{graphicx} required
 \begin{figure}[h]
 	\centering
@@ -35,9 +35,9 @@ douce dans les corps normaux est celle du \emph{mica}. Le \emph{mica} a une rugo
 	\label{fig:caracterisation}
 \end{figure}
 \subsubsection{Texturation avec procédé chimique}
-\lettrine{D}{ans} cette technique, un film protecteur est posé sur la surface de la pièce. Ce film est muni de motif par lequel un acide va s’infiltrer pour attaquer l’interface. La concentration utilisée et le temps laissé avant le rinçage déterminent la profondeur de la texture souhaitée. Cette technique a l’avantage de ne pas entraîner de déformation du matériau autour de la texture, de ne pas générer de débris pouvant subsister dans le contact, mais elle est très lourde à mettre en place sur une chaîne de production, car il faut isoler toutes les parties qui ne seront pas concernés par la texturation.
+Dans cette technique, un film protecteur est posé sur la surface de la pièce. Ce film est muni de motif par lequel un acide va s’infiltrer pour attaquer l’interface. La concentration utilisée et le temps laissé avant le rinçage déterminent la profondeur de la texture souhaitée. Cette technique a l’avantage de ne pas entraîner de déformation du matériau autour de la texture, de ne pas générer de débris pouvant subsister dans le contact, mais elle est très lourde à mettre en place sur une chaîne de production, car il faut isoler toutes les parties qui ne seront pas concernés par la texturation.
 \subsubsection{Texturation à l'aide d'un diamant}
-\lettrine{D}{ans} ce procédé d’usinage, un diamant est utilisé pour réaliser la texturation, 3 paramètres permettent de contrôler la texture obtenue :
+Dans ce procédé d’usinage, un diamant est utilisé pour réaliser la texturation, 3 paramètres permettent de contrôler la texture obtenue :
 \begin{itemize}	
 	\item La vitesse de deplacement verticale;
 	\item La vitesse de rotation du rodoir;
@@ -91,7 +91,7 @@ Ce paramètre $R_q$ est équivalent à l’écart type, on utilisons aussi un pa
 	RSk=\frac{1}{n{R}_{q}^{3}}\sum {z}_{i}^{3}
 \end{equation}
 \begin{equation}
-	RSk=\frac{1}{L{R}_{q}^{3}}\underset{0}{\int }{z}^{3}\left(x\right)dx
+	RSk=\frac{1}{L{R}_{q}^{3}}{\int }{z}^{3}\left(x\right)dx
 \end{equation}
 Une valeur positive de ce paramètre indique des pics plus marqués que les vallées. La
 situation inverse correspond à une valeur négative de $RSk$. Enfin, le paramètre d’étalement
@@ -154,6 +154,7 @@ avec : $$ H_{\sigma} = \frac{h_{T}}{\sigma} $$
 Et 
 \begin{equation}
 	\sigma =\sqrt{{R}_{q}_{segment}^{2}+{R}_{q}_{chemise}^{2}}
+	\label{sigma}
 \end{equation}
 
 % TODO: \usepackage{graphicx} required
@@ -218,7 +219,7 @@ Cette maneuvre viser à reduire l'équation de Reynold tels que modifiée, cette
 	\item $\mu_{m}$ est la viscosité dynamique du lubrifiant ;
 	\item $b$ est la taille axiale du segment.
 \end{itemize}
-La vitesse instantanée U du piston peut être décrite par une fonction quasi harmonique de la position angulaire θ du vilebrequin, en relation avec la vitesse angulaire ω, conformément à l'expression :
+La vitesse instantanée U du piston peut être décrite par une fonction quasi harmonique de la position angulaire $\theta$ du vilebrequin, en relation avec la vitesse angulaire $\omega$, conformément à l'expression :
 \begin{equation}
 	U =\frac{R}{b}\sin{\theta} \left(1-\frac{\cos\theta}{\sqrt{(\frac{L}{b})^2-\sin\theta}}\right)b\omega
 \end{equation}
@@ -226,3 +227,58 @@ La vitesse angulaire est elle‐même liée à la vitesse du moteur par la relat
 \begin{equation}
 	\omega =\frac{2\pi}{60}N
 \end{equation}
+\subsection{Facteur d'écoulement}
+Petri et Cheng ont proposé l’ajout de trois facteurs caractérisant les effets de la rugosité sur le film d’huile dans l’équation de Reynolds, deux ont un effet sur le débit de Poiseuille appelés facteurs d'écoulement de pression, et a un effet sur le débit de Couette dit facteur d'écoulement de cisaillement.\cite{tribo1}\\
+
+\begin{itemize}
+	\item Facteur d'ecoulement en pression
+	\begin{equation}
+		\phi_{x} =\frac{1-0,9{e}^{-0,56\frac{h}{\sigma}}}{12}
+	\end{equation}
+	\item facteur d'écoulement en scisaillement 
+	\begin{equation}
+		\begin{cases}
+			\phi_{s}=1,899 \left(\frac{h}{\sigma}\right)^{0,98}-0,92\left(\frac{h}{\sigma}\right)+0,005\left(\frac{h}{\sigma}\right)^2&\text{pour  h \leg 5\sigma} \\
+			1,026e^{-0,56}\left(\frac{h}{\sigma}\right) &\text{pour h > 5\sigma}
+		\end{cases}
+	\end{equation}
+\end{itemize}
+
+En gardant à l'esprit que $\sigma$ est écrit à (équation \ref{sigma}), Nous remarquons donc ces facteurs d'écoulement ne dependent que de la géométrie du problème. Ils traduisent l’influence en moyenne de la rugosité sur le débit et sur le cisaillement. Ils varient en fonction de la distance moyenne entre les surfaces via l’évolution du champ des ouvertures. Ils sont bien évidemment fonction des propriétés géométriques des surfaces.
+
+\subsection{Géométrie du segment}
+Il est nécessaire comme vue ci-haut, de connaitre le profil de la géométrie du segment pour établir une force hydrodynamique, qui sépare l'interface du segment de la chemise. Les Rails du segment racleur ont habituellement la forme parabolique comme montré dans le (schéma \ref{fig:profil-du-segment-racleur}).
+% TODO: \usepackage{graphicx} required
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{"Img/profil du segment racleur"}
+	\caption[shema racleur d'huile]{shema racleur d'huile}
+	\label{fig:profil-du-segment-racleur}
+\end{figure}
+
+Dans le cadre de ce travail nous allons adopter sur deux géométrie bombée, une plus bombée que l’autre et qui sont donnée ci‐dessous :
+Epaisseur du film d’huile nominale pour géométrie bombée:
+\begin{equation}
+	h(x) =
+	\begin{cases} 
+		\left(\frac{6x + b}{3 - b}\right)^2 & \text{pour } -\frac{b}{2} \leq x < -\frac{b}{6}, \\[10pt]
+		0 & \text{pour } -\frac{b}{6} \leq x \leq \frac{b}{6}, \\[10pt]
+		\left(\frac{6x - b}{3 - b}\right)^2 & \text{pour } \frac{b}{6} < x \leq \frac{b}{2}.
+	\end{cases}
+\end{equation}
+Epaisseur du film d'huile pour la géométrie moins bombée :
+\begin{equation}
+	h(x) =
+	\begin{cases} 
+		\left(\frac{3x + b}{3 - b}\right)^2 & \text{pour } -\frac{b}{2} \leq x < -\frac{b}{6}, \\[10pt]
+		0 & \text{pour } -\frac{b}{6} \leq x \leq \frac{b}{6}, \\[10pt]
+		\left(\frac{3x - b}{3 - b}\right)^2 & \text{pour } \frac{b}{6} < x \leq \frac{b}{2}.
+	\end{cases}
+\end{equation}
+Pour l’épaisseur du film d’huile locale en considérant la rugosité des surfaces, la relation suivante
+a été utilisée.\cite{tribo1}:
+\begin{equation}
+	h_{T} =\frac{h}{2}\left\{1+erf\left(\frac{h}{\sqrt{2}\sigma}\right)\right\}+\frac{\sigma}{\sqrt{2\pi}}e^{\dfrac{h^2}{2\sigma ^2}}
+\end{equation}
+sachant que $h_T$ est perçus dans la (Figure \ref{fig:mode-delubrification-par-le-triplet})
+

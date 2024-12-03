@@ -30,3 +30,5 @@
 \contentsline {section}{\numberline {2.4}Lubrification dans le Segment et le piston }{21}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Equation de Reynold}{22}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Equation de Reynold Modifiée}{23}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Facteur d'écoulement}{24}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Géométrie du segment}{24}{subsection.2.4.4}%
